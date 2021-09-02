@@ -1,5 +1,7 @@
 # create-micrr-app
-⚡CLI for creating reusable micro app.
+⚡ CLI for creating reusable micro app.
+
+> npx create-micrr-app create my-project
 
 
 # use dependencies
